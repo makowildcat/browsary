@@ -1,0 +1,49 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo">
+        <item name="android:actionBarStyle">@style/ActionBarWeb</item>
+        <item name="android:dropDownListViewStyle">@style/customDropDown</item>
+    </style>
+
+    <style name="ActionBarWeb" parent="@style/Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/background_secondary</item>
+    </style>
+
+    <style name="actionbar_imagebutton">
+        <item name="android:background">@drawable/imagebutton_feedback</item>
+        <item name="android:layout_width">44dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="actionbar_edittext_imagebutton">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">32dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <style name="customDropDown">
+        <item name="android:divider">@color/background_tertiary</item>
+        <item name="android:dividerHeight">1px</item>
+    </style>
+
+    <!-- <item name="android:fontFamily">sans-serif-light</item> >= API 16 :( -->
+    
+    <style name="textview_thesaurus">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <style name="textview_item">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+</resources>

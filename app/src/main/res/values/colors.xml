@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+     even if I use mainly default colors (white + holo_blue dark & light)
+     just with this file I can change the whole app
+    -->
+
+    <color name="background_primary">#FFFFFFFF</color>
+    <color name="background_secondary">#FF0099CC</color>
+    <color name="background_tertiary">#FF33B5E5</color>
+    <color name="background_quarternary">#EE062D3C</color>
+    <color name="text_primary">#FF0099CC</color>
+    <color name="text_secondary">#FFFFFFFF</color>
+    <color name="text_tertiary">#FF666666</color>
+
+</resources>

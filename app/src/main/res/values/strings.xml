@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Browsary</string>
+    <string name="not_found">Word not found.</string>
+    <string name="cd_webpage">Webpage</string>
+    <string name="cd_favorite">Favorite</string>
+    <string name="cd_history">History</string>
+    <string name="cd_refresh">Refresh</string>
+    <string name="cd_clearfavorite">Clear or Favorite</string>
+    <string name="cd_forward">Forward</string>
+    <string name="cd_home">Home</string>
+    <string name="cd_historysearch">History Search</string>
+    <string name="cd_icon">History or Favorite</string>
+    <string name="cd_favicon">FavIcon</string>
+    <string name="cd_remove">Remove</string>
+    <string name="cd_add">Add</string>
+
+</resources>
