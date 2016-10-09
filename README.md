@@ -1,11 +1,10 @@
+![Alt text](/app/src/main/res/drawable-xhdpi/ic_launcher.png?raw=true "Icon")
 # Browsary
 _Very simple Web browser with (kind of) Thesaurus feature_
 
-This is my second application I did few years ago for my Master graduation.
 It is a web browser which allows users to select a word when browsing website and automatically get some information about it, such as synonyms, antonyms, etc.
-It gets that information from the [Big Huge Thesaurus API](http://words.bighugelabs.com/api.php). 
-Besides, I never published this application on Google Play because the free use of this API is limited to 1000 words per day. 
-Also, it was mainly for the sake of learning, and bytheway, the code should be updated...
+It gets that information from the [Big Huge Thesaurus API](http://words.bighugelabs.com/api.php).
+Free (and fair) use of this API is limited to 1000 words per day.
 
 App compatible with Android 4.0.3 or more (Ice Cream Sandwich - API 15)
 
@@ -65,3 +64,8 @@ _Browsary also include some basic features_
 - Handle different orientation (horizontal/vertical) and size of screens (here screenshot from Nexus 7 in landscape)
 
 ![Alt text](/screenshot/n7_landscape.png?raw=true "Nexus 7 (landscape)")
+
+## Known issues
+- Code is maybe a bit ugly
+
+(Code refactoring must be done - it was my second android app)
